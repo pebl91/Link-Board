@@ -1,0 +1,15 @@
+one:
+  follower: pawel 
+  followed: lana
+ 
+two:
+  follower: pawel
+  followed: malory
+
+three:
+  follower: lana
+  followed: pawel
+
+four:
+  follower: bogi
+  followed: pawel
