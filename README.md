@@ -1,9 +1,21 @@
-# Ruby on Rails Tutorial sample application
+# Link Board application
 
-This is the sampple application for the
+This is application is an extension of the Sample App from
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
-by [Michael Hartl](https://www.michaelhartl.com).
+by [Michael Hartl](https://www.michaelhartl.com), created to further develop
+Ruby on Rails skills.
+
+## About
+
+In terms of functionality, the app is intended to resamble the well-know Polish
+site [Wykop.pl](https://wykop.pl/)
+
+Current functionality:
+- Users can: sign up, log in,  activate account, change password, 
+reset password, create posts with image and tags, delete their own posts,
+follow and unfollow other users. User can also see how many post he had writed
+and how many users is he following and how many followers is he having.
 
 ## License
 
