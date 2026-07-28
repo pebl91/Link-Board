@@ -14,7 +14,7 @@ site [Wykop.pl](https://wykop.pl/)
 Current functionality:
 - Users can: sign up, log in,  activate account, change password, 
 reset password, create posts with image and tags, delete their own posts,
-follow and unfollow other users. User can also see how many post he had writed
+follow and unfollow other users. User can also see how many post he had wrote
 and how many users is he following and how many followers is he having.
 
 ## License
